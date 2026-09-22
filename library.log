@@ -1,0 +1,8 @@
+2026-09-10 12:48:12,693 - INFO - User string12 logged in successfully
+2026-09-10 12:50:09,611 - WARNING - Failed login attempt for username: string12
+2026-09-10 15:49:41,010 - WARNING - Book issue failed - Book 1 not found
+2026-09-10 15:49:49,571 - WARNING - Book issue failed - Book 23 not found
+2026-09-10 15:50:19,836 - WARNING - Book issue failed - Member 2 not found
+2026-09-10 15:50:41,155 - WARNING - Book issue failed - Member 3 not found
+2026-09-10 15:53:09,310 - INFO - Book 2 issued to member 1
+2026-09-10 16:01:45,746 - INFO - User string12 logged in successfully
